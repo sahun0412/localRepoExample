@@ -65,3 +65,19 @@ Learning Git and GitHub
   8. to rename branch : git branch -M main 
 
   9. git push -u origin main : upstream 
+
+
+  # GIT BRANCH
+   1. To Check Branch : git branch
+
+   2. To Rename Branch : git branch -M main 
+
+   3. To Navigate  : git checkout <-branchName->
+
+   4. To Create New Branch : git checkout -b <-new branch name->
+
+   5. To Delete Branch : git branch -d <-branch name->
+
+   6. Push on Branch : git push origin feature1
+
+   7. Check GitHub .
